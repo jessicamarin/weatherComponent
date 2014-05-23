@@ -1,6 +1,6 @@
 {
-    "name": "carlosio/geckoboard",
-    "description": "A PHP library for dealing with Geckoboard API (http://www.geckoboard.com)",
+    "name": "patxi1980/weatherComponent",
+    "description": "weather component",
     "type": "library",
     "license": "MIT",
     "authors": [
